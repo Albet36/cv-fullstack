@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.background{
+    background-color: #f5f7fa;
+}
+.container{
+    margin: 0 200px;
+    padding: 200px 0;
+}
+.layout{
+    color: #434a54;
+    box-shadow : 0px 10px 10px;
+}
+.profile{
+    padding: 20px 0;
+    background: #bbf7d0;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+.profile .content{
+    margin: 60px 0 0;
+}
